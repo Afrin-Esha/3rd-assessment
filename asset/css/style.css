@@ -229,6 +229,13 @@ nav .banner-inner {
     background: #f8f9fa;
 	padding: 2em;
 }
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+img {
+    width: 100%;
+}
 .exp-grid1 p {
     line-height: 28px;
     letter-spacing: .5px;
